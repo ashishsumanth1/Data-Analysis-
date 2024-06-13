@@ -41,19 +41,6 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 
 ### Methodology
 
-This methodology section presents our structured approach to ensure robust and meaningful insights into achieving the project's aims and objectives.
-
-
-
-#### Exploratory Data Analysis (EDA)
-**Data Visualization**: Graphs, plots, and charts were employed to get a preliminary understanding of the data distributions, trends, and patterns.
-
-**Statistical Analysis**: Key statistical measures were computed to understand the central tendencies, variations, and other characteristics of the data.
-
-#### Advanced Data Analysis
-**Correlation Analysis**: We extensively looked at the linear relationships between educational qualifications and occupational categories. This thorough analysis aimed to clarify the degree to which different educational backgrounds may impact or direct people towards particular professional fields.
-
-**Cluster Analysis**: K-means clustering was employed, segmenting the data into clusters based on inherent similarities. This provided insights into how qualifications and job types naturally group together, revealing any mismatches.
 
 #### Machine Learning Model Development
 **Feature Engineering**: Relevant features were extracted and sometimes transformed to ensure the machine learning model would perform optimally.
@@ -80,6 +67,19 @@ This methodology section presents our structured approach to ensure robust and m
 - **Data Cleaning**: The qualification and occupation databases were both essentially in pristine condition, suggesting they had already been cleaned. To ensure our research's accuracy, a careful review was conducted to look for any inconsistencies. Unnecessary columns were removed, making the dataset more suitable for our analytical goals.
 
 ## Methodology
+
+This methodology section presents our structured approach to ensure robust and meaningful insights into achieving the project's aims and objectives.
+
+#### Exploratory Data Analysis (EDA)
+**Data Visualization**: Graphs, plots, and charts were employed to get a preliminary understanding of the data distributions, trends, and patterns.
+
+**Statistical Analysis**: Key statistical measures were computed to understand the central tendencies, variations, and other characteristics of the data.
+
+#### Advanced Data Analysis
+**Correlation Analysis**: We extensively looked at the linear relationships between educational qualifications and occupational categories. This thorough analysis aimed to clarify the degree to which different educational backgrounds may impact or direct people towards particular professional fields.
+
+**Cluster Analysis**: K-means clustering was employed, segmenting the data into clusters based on inherent similarities. This provided insights into how qualifications and job types naturally group together, revealing any mismatches.
+
 ### Methodology for Calculating Employment Rate
 This is a key measure that gives us an idea of how many people in a particular area are working compared to those who are not. This data was obtained to use for our machine learning model preparation. The employment rate is the ratio of the number of employed individuals to the total workforce (i.e., the sum of employed and not employed individuals). The formula we employed to determine this is:
 
