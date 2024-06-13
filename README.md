@@ -1,5 +1,3 @@
-# Data-Analysis-
-
 # Census 2021 Data Analysis
 
 ## Overview
