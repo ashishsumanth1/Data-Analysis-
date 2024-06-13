@@ -130,12 +130,14 @@ Categorizing Wards:
 
 Wards were categorized based on their "No Qualification Ratios".
 For targeted examination, subsets like the top and bottom 1000 wards were chosen to explore the data further.
+
 Findings:
 
 Correlation Observation:
 
 The analysis revealed that wards with lower "No Qualification Ratios" tend to have more favorable employment rates.
 This suggests a positive correlation between higher educational attainment and better employment opportunities.
+
 Insights:
 
 Positive Correlation:
@@ -164,7 +166,6 @@ Level 3 Qualifications: 26.62% of employed individuals possess Level 3 qualifica
 
 Level 4 Qualifications: Over half (56.10%) of the employed population holds Level 4 qualifications. This indicates a highly educated workforce, suitable for advanced roles that demand significant expertise, managerial skills, or strategic input.
 
-For a visual representation of this distribution, please refer to Figure III, depicted as a bar chart.
 
 ## 4. Percentage Distribution of Classroom vs. Apprenticeship-Based Qualifications
 
@@ -205,7 +206,7 @@ Skilled Trades: These wards may house industries needing specialized trade skill
 Service and Care: The prominence of care and service roles in certain wards indicates a demand driven by demographics, culture, or specific institutions like healthcare facilities.
 
 Conclusion:
-The occupational landscape in wards with high apprenticeship qualifications is diverse. While professional roles are prominent, elementary, skilled trade, and caring occupations are also significant. This diversity reflects the multifaceted nature of economic activities and varying apprenticeship program outcomes across regions. These insights can guide policymakers, educators, and industry leaders in tailoring apprenticeship programs to address local job market needs and understand the broader economic characteristics of these wards. For a visual representation of the occupational distribution, refer to the pie chart in Figure IV.
+The occupational landscape in wards with high apprenticeship qualifications is diverse. While professional roles are prominent, elementary, skilled trade, and caring occupations are also significant. This diversity reflects the multifaceted nature of economic activities and varying apprenticeship program outcomes across regions. These insights can guide policymakers, educators, and industry leaders in tailoring apprenticeship programs to address local job market needs and understand the broader economic characteristics of these wards.
 
 ## 6. Influence of Higher Education and Professional Occupations on Employment Rates in Electoral Wards
 Our analysis identified a distinct relationship between employment rates and the proportion of people with Level 4 qualifications and those in professional occupations.
@@ -215,10 +216,10 @@ Methodology:
 
 High Performing Wards: Top 25% in Level 4 qualifications and professional occupations.
 Low Performing Wards: Bottom 10% in Level 4 qualifications and professional occupations.
-Visual Representation: Refer to the violin plot in "Figure VI".
+
 Key Findings:
 
-Higher Employment Rates: High performing wards show an average employment rate of 0.62%, compared to 0.53% in low performing wards. This 9% difference is statistically significant.
+Higher Employment Rates: High-performing wards show an average employment rate of 0.62%, compared to 0.53% in low-performing wards. This 9% difference is statistically significant.
 Economic Implications:
 
 Higher employment rates indicate a robust economy, fueled by educated individuals in professional roles, which boosts local productivity and living standards. This is supported by Moretti (2004), highlighting the economic benefits of regions with more college-educated residents.
@@ -238,7 +239,7 @@ Sources: Utilized UK Standard Occupational Classification (SOC) 2020 and Interna
 Steps:
 Data Categorization: Grouped educational qualifications and job roles into levels.
 Identifying Mismatches: Found gaps where education levels didn't match available jobs.
-Visualization: Used line plots to show mismatches for each educational level (Figures VII and VIII).
+Visualization: Used line plots to show mismatches for each educational level.
 Findings:
 
 Mismatch Rates:
@@ -247,7 +248,7 @@ Level 3: 28.41%
 Level 2: 21.09%
 Level 1: 18.42%
 Conclusion:
-Significant mismatches exist between qualifications and job roles, especially at higher education levels. Our findings highlight the need for better alignment between the education and employment sectors. For detailed visual data, see Figures VII and VIII in our report.
+Significant mismatches exist between qualifications and job roles, especially at higher education levels. Our findings highlight the need for better alignment between the education and employment sectors.
 
 ## 8. Age Demographics and Their Impact on Employment Rates
 Introduction:
@@ -298,25 +299,21 @@ Red Cluster (High Occupations or High Qualifications): Likely urban centers with
 ![Screenshot 2023-08-11 113715](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/e4387427-863d-43c9-8262-1d6105b07dc1)
 
 ## Conclusions
-Conclusion:
 
-9.1. Summary of the investigation study and findings: 
-
-We have uncovered a variety of insights through our analysis of the ONS Census 2021 data, especially that related to qualifications and occupations. Our initial goal was to identify the relationships between these datasets. Thankfully, the data only required minimum cleaning, which made it possible to combine these sets without any issues.
+We have uncovered a variety of insights through our analysis of the ONS Census 2021 data, especially that related to qualifications and occupations. Our initial goal was to identify the relationships between these datasets.
 
 Our first dive into the data unveiled intriguing correlations between qualification and occupation levels. However, certain outliers captured our attention. These outliers, which presented a higher qualification level yet lacked corresponding occupations, revealed that a significant 52% of them possessed Level 4 qualifications, while 27.24% engaged in professional occupations. Recognizing the data's value, we wisely chose to retain these outliers for further analysis.
-We found a clear disparity in qualification levels among the employed after digging further into the employment data. The fact that level 4 qualifications are held by more than half of the employed population indicates that there is a significant trend of highly educated labour. Levels 1 to 3 qualifications, on the other hand, make up a significant component that represents a range of skill sets, from basic to specialized professions.
 
-Our investigation revealed several key findings, one of which was the overwhelmingly strong preference for classroom-based education. A clear indication of the confidence and reliance people have on formal education is the fact that over 92% of respondents preferred traditional educational structures.
+We found a clear disparity in qualification levels among the employed after digging further into the employment data. The fact that level 4 qualifications are held by more than half of the employed population indicates that there is a significant trend of highly educated labor. Levels 1 to 3 qualifications, on the other hand, make up a significant component that represents a range of skill sets, from basic to specialized professions.
 
-A lot of people who did apprenticeships, which is like learning while working, end up in professional jobs. This shows that apprenticeships can be a good way to get into such roles. However, some people also end up in more basic jobs.
+Our investigation revealed several key findings, one of which was the overwhelmingly strong preference for classroom-based education. A clear indication of the confidence and reliance people have on formal education is the fact that over 92% of respondents preferred traditional educational structures. A lot of people who did apprenticeships, which is like learning while working, end up in professional jobs. This shows that apprenticeships can be a good way to get into such roles. However, some people also end up in more basic jobs.
 
 Higher education has proven benefits and an influence on job trends. It's interesting to see that wards with a significant proportion of Level 4 qualified people and professionals have an employment rate of 0.62%.
 
 Despite the fact, that education frequently implies greater employment prospects, there is a clear disconnection, particularly for people with Level 4 qualifications. A sizable 32.08% of them find themselves in jobs that might not be appropriate for their level of academic achievement, raising the possibility of a demand-supply imbalance in the labour market.
 
-the age group of 24 to 34 years old plays an important role in shaping employment trends. This shows the energy and potential of this age group in the workforce.
-But our research went a step further than merely providing analytical insights. Using the Random Forest technique and the capabilities of machine learning, we created a predictive model to estimate the chance of a person would land a job in a user-specified ward. In addition to improving our understanding of employment trends across wards, our model offers job searchers useful information that will help them make decisions based on data-driven insights.
+The age group of 24 to 34 years old plays an important role in shaping employment trends. This shows the energy and potential of this age group in the workforce.
+However our research went a step further than merely providing analytical insights. Using the Random Forest technique and the capabilities of machine learning, we created a predictive model to estimate the chance that a person would land a job in a user-specified ward. In addition to improving our understanding of employment trends across wards, our model offers job searchers useful information that will help them make decisions based on data-driven insights.
 
 
 
