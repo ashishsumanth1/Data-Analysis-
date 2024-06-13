@@ -14,20 +14,19 @@ This project analyzes the Census 2021 data to uncover insights from Education an
 9. [License](#license)
 
 ## Introduction
-Census data has always been crucial in creating a country's infrastructure and policies. It gives a thorough picture of a nation's population, encompassing demographic, economic, and social information. Governments, academics, and businesses depend on the data to help them make well-informed choices that reflect public preferences and fashions. Census 2021 was distinct. To give more accuracy and coverage, it made use of cutting-edge technology, including digital data collection techniques and sophisticated data processing. This digital transformation ensured more accurate and accessible results.
+Census data plays a crucial role in shaping a country's infrastructure and policies, providing a comprehensive picture of the population, including demographic, economic, and social information. The 2021 Census marks a significant milestone in the history of data collection, leveraging advanced technology for digital data collection and processing to enhance accuracy and coverage.
 
-#### Data Accessibility and Democratization
-A noteworthy feature of Census 2021 is its dedication to openness and data democratization. The Census Authority developed an official website, offering a user-friendly platform for people to explore and download datasets directly, realizing the value of making data available to the public. This shift toward open data has been revolutionary.
-
-This wealth of data is now available to academics, decision-makers, corporations, and even curious individuals. The data is provided in an approachable manner that makes it simple to download and integrate into various analytical tools for specialized insights. The government has enforced transparency and promoted a culture of investigation, analysis, and data-driven decision-making by making Census 2021 data easily accessible.
+Project Overview
+This project aims to analyze the 2021 Census data to uncover insights into the employment landscape across different electoral wards. The analysis focuses on the correlation between educational qualifications and occupations, the impact of age demographics on employment rates, and the mismatch between the supply of qualified individuals and job opportunities.
 
 ### Project Aims and Objectives
 
 #### Aim
 Our primary aim in undertaking this project is to delve deep into the qualifications and occupations datasets from Census 2021 provided by the ONS. By analyzing the inherent correlations and trends between these two sets, we endeavor to:
 
-- Understand the relationship between qualifications and occupations across various electoral wards.
+- Analyze Qualification-Occupation Correlation: Examine how different levels of educational qualifications align with job roles, highlighting areas with significant mismatches.
 - Identify outliers and their significance in the broader spectrum of the data.
+- Impact of No Qualification on Employment Rates: Investigate the employment rates among individuals without formal qualifications.
 - Explore the implications of qualification preferences like classroom-based education versus apprenticeship programs.
 - Examine the predominant occupations inwards based on different types of qualifications.
 - Assess the influence of higher education and specific occupations on employment rates in electoral wards.
