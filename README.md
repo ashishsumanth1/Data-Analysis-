@@ -88,16 +88,15 @@ With these thresholds established, we proceeded to categorize each ward based on
 - Wards that had employment rates below the 33rd percentile were labeled as 'Low probability'. These are areas that might require closer attention due to their lower employment figures.
 
 ## Results
+
 1. Analysis of Correlation between Qualifications and Occupations
 To investigate the relationship between qualifications and occupations within each electoral ward, a scatter plot was created showing the total number of qualifications against the total number of occupations.
+
+![download (9)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/419ce348-3dfc-461e-a7d3-a34b42098820)
 
 Key Insights:
 
 Correlation Observation: The scatter plot indicated a noticeable trend, suggesting that areas with higher numbers of qualifications tend to have higher numbers of occupations, highlighting a potential correlation between the two datasets.
-
-Visual Elements: The x-axis represents 'Total Qualifications' and the y-axis represents 'Total Occupations'. The plot includes a grid for better legibility, with each data point depicting an electoral ward's count of qualifications and occupations.
-
-Implications of the Correlation: This positive correlation might reflect various socio-economic factors, such as regions with better educational facilities attracting more businesses and industries, thereby increasing job opportunities.
 
 Outliers Analysis: Some wards, despite having many qualified individuals, showed lower employment rates. This could be due to high population density or a shortage of jobs relative to the number of qualified people.
 
@@ -107,9 +106,9 @@ Clusters: Distinct clusters of wards were noticeable, suggesting a concentration
 
 Segmentation Based on Thresholds: By setting thresholds (e.g., more than 10,000 total occupations and qualifications), the data was segmented to isolate top-performing wards for a detailed analysis.
 
-High-Value Wards: In wards with over 10,000 total occupations and qualifications, Level 4 qualifications and 'Professional occupations' were most common.
+High-Value Wards: Inwards with over 10,000 total occupations and qualifications, Level 4 qualifications and 'Professional occupations' were most common.
 
-Mid-Value Wards: In wards with 6,000 to 10,000 occupations and qualifications above 5,000, Level 4 qualifications and 'Professional occupations' were also prevalent but in lower numbers.
+Mid-Value Wards: Inwards with 6,000 to 10,000 occupations and qualifications above 5,000, Level 4 qualifications and 'Professional occupations' were also prevalent but in lower numbers.
 
 Conclusion:
 
