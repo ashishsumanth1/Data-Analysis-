@@ -1,7 +1,7 @@
 # Census 2021 Data Analysis
 
 ## Overview
-This project analyzes the Census 2021 data to uncover insights about the population distribution, growth trends, and demographic patterns.
+This project analyzes the Census 2021 data to uncover insights from Education and Occupation datasets.
 
 ## Table of Contents
 1. [Introduction](#introduction)
