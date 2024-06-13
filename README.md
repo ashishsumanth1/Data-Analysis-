@@ -52,7 +52,7 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 **Deployment**: Once developed, the application was deployed, making it accessible to users.
 
 
-## Data Pre-processing
+## Data
 #### Data Acquisition
 **Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
 
