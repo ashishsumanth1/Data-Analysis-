@@ -272,8 +272,30 @@ Older wards show lower employment due to retirement.
 Skill Relevance:
 Younger individuals have relevant, up-to-date skills.
 Older populations may face skill obsolescence.
-Visual data can be seen in Figures IX and X.
 
+## Development of the Census 2021 Data Analysis Web Application
+
+The 2021 Census dataset provided valuable insights into the employment landscape, revealing the impact of age, qualifications, and geographical differences on job availability. To make these insights accessible, we developed an interactive web application aimed at aiding recent graduates and job seekers.
+
+![Screenshot 2023-08-11 113715](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/e4387427-863d-43c9-8262-1d6105b07dc1)
+
+6.1. Dash - Interactive Web-based Data Visualization
+
+Framework: Built on Flask, Plotly.js, and React.js, Dash is ideal for creating interactive data visualization apps.
+Layout: The application includes sections such as "Cluster Analysis," "Qualifications and Occupations Analysis," "Job Market Analysis by Qualification Level," "Demand-Supply Gap Analysis," and "Age Distribution Analysis."
+Components: Used Dropdown and Graph components for interactive selections and visualizations.
+Callbacks: Enabled dynamic graph updates based on user inputs, such as changing electoral wards or selecting qualification levels.
+Plotly: Integrated for visualizing cluster analysis, qualifications, occupations, and age distributions.
+
+6.2. Interactivity and User Experience
+
+6.2.1. Cluster Analysis:
+
+User Interaction: Users can select electoral wards to update a scatter plot showing qualifications and occupations clusters.
+KMeans Clustering Algorithm: Identified three distinct clusters:
+Blue Cluster (Low Occupations and Low Qualifications): Areas with low qualifications and low employment, possibly rural or with an older population.
+Yellow Cluster (Medium Occupations and Medium Qualifications): Balanced areas, potentially suburban, with growth potential.
+Red Cluster (High Occupations or High Qualifications): Likely urban centers with high qualifications and employment, indicating economic vibrancy.
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
 
