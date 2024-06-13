@@ -224,7 +224,7 @@ Economic Implications:
 Higher employment rates indicate a robust economy, fueled by educated individuals in professional roles, which boosts local productivity and living standards. This is supported by Moretti (2004), highlighting the economic benefits of regions with more college-educated residents.
 Our findings suggest that wards with more residents holding Level 4 qualifications and professional occupations enjoy better economic conditions and higher employment rates.
 
-7. Demand-Supply Mismatch Between Qualification and Occupation
+## 7. Demand-Supply Mismatch Between Qualification and Occupation
 
 Our analysis focused on how educational qualifications align with job roles in the UK. This helps determine if the education system matches employment opportunities.
 
@@ -249,6 +249,30 @@ Level 1: 18.42%
 Conclusion:
 Significant mismatches exist between qualifications and job roles, especially at higher education levels. Our findings highlight the need for better alignment between the education and employment sectors. For detailed visual data, see Figures VII and VIII in our report.
 
+## 8. Age Demographics and Their Impact on Employment Rates
+Introduction:
+We expanded our dataset to include employment status and age demographics to uncover patterns and insights.
+
+![download (11)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/06ba25ef-0472-4ab8-8ae4-be141450b97c)
+![download (12)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/565b39f0-b0b5-45a3-a233-564ea50b575a)
+
+Detailed Observations:
+
+Younger Populations (24 to 34 years):
+Higher employment rates.
+Likely due to recent training and contemporary skills.
+Older Demographics (50+ years):
+Lower employment rates.
+Many individuals are retired or nearing retirement.
+Key Concepts:
+
+Workforce Age Dynamics:
+Younger wards benefit from an active workforce aligned with current job market demands.
+Older wards show lower employment due to retirement.
+Skill Relevance:
+Younger individuals have relevant, up-to-date skills.
+Older populations may face skill obsolescence.
+Visual data can be seen in Figures IX and X.
 
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
