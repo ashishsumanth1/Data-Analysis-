@@ -207,6 +207,49 @@ Service and Care: The prominence of care and service roles in certain wards indi
 Conclusion:
 The occupational landscape in wards with high apprenticeship qualifications is diverse. While professional roles are prominent, elementary, skilled trade, and caring occupations are also significant. This diversity reflects the multifaceted nature of economic activities and varying apprenticeship program outcomes across regions. These insights can guide policymakers, educators, and industry leaders in tailoring apprenticeship programs to address local job market needs and understand the broader economic characteristics of these wards. For a visual representation of the occupational distribution, refer to the pie chart in Figure IV.
 
+## 6. Influence of Higher Education and Professional Occupations on Employment Rates in Electoral Wards
+Our analysis identified a distinct relationship between employment rates and the proportion of people with Level 4 qualifications and those in professional occupations.
+![download (7)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/e3e64c4a-97c8-4ddf-adbf-efc37712e54d)
+
+Methodology:
+
+High Performing Wards: Top 25% in Level 4 qualifications and professional occupations.
+Low Performing Wards: Bottom 10% in Level 4 qualifications and professional occupations.
+Visual Representation: Refer to the violin plot in "Figure VI".
+Key Findings:
+
+Higher Employment Rates: High performing wards show an average employment rate of 0.62%, compared to 0.53% in low performing wards. This 9% difference is statistically significant.
+Economic Implications:
+
+Higher employment rates indicate a robust economy, fueled by educated individuals in professional roles, which boosts local productivity and living standards. This is supported by Moretti (2004), highlighting the economic benefits of regions with more college-educated residents.
+Our findings suggest that wards with more residents holding Level 4 qualifications and professional occupations enjoy better economic conditions and higher employment rates.
+
+7. Demand-Supply Mismatch Between Qualification and Occupation
+
+Our analysis focused on how educational qualifications align with job roles in the UK. This helps determine if the education system matches employment opportunities.
+
+![image](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/a5b5b89d-1f5a-4166-92a1-0ce2ea99c1cf)
+
+![image](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/bd9a9ae7-ae92-4a24-906b-8468ea91f109)
+
+Approach:
+
+Sources: Utilized UK Standard Occupational Classification (SOC) 2020 and International Standard Classification of Education (ISCED).
+Steps:
+Data Categorization: Grouped educational qualifications and job roles into levels.
+Identifying Mismatches: Found gaps where education levels didn't match available jobs.
+Visualization: Used line plots to show mismatches for each educational level (Figures VII and VIII).
+Findings:
+
+Mismatch Rates:
+Level 4: 32.08%
+Level 3: 28.41%
+Level 2: 21.09%
+Level 1: 18.42%
+Conclusion:
+Significant mismatches exist between qualifications and job roles, especially at higher education levels. Our findings highlight the need for better alignment between the education and employment sectors. For detailed visual data, see Figures VII and VIII in our report.
+
+
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
 
