@@ -273,13 +273,11 @@ Skill Relevance:
 Younger individuals have relevant, up-to-date skills.
 Older populations may face skill obsolescence.
 
-## Development of the Census 2021 Data Analysis Web Application
+## 9. Development of the Census 2021 Data Analysis Web Application
 
 The 2021 Census dataset provided valuable insights into the employment landscape, revealing the impact of age, qualifications, and geographical differences on job availability. To make these insights accessible, we developed an interactive web application aimed at aiding recent graduates and job seekers.
 
-![Screenshot 2023-08-11 113715](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/e4387427-863d-43c9-8262-1d6105b07dc1)
-
-6.1. Dash - Interactive Web-based Data Visualization
+9.1. Dash - Interactive Web-based Data Visualization
 
 Framework: Built on Flask, Plotly.js, and React.js, Dash is ideal for creating interactive data visualization apps.
 Layout: The application includes sections such as "Cluster Analysis," "Qualifications and Occupations Analysis," "Job Market Analysis by Qualification Level," "Demand-Supply Gap Analysis," and "Age Distribution Analysis."
@@ -287,16 +285,38 @@ Components: Used Dropdown and Graph components for interactive selections and vi
 Callbacks: Enabled dynamic graph updates based on user inputs, such as changing electoral wards or selecting qualification levels.
 Plotly: Integrated for visualizing cluster analysis, qualifications, occupations, and age distributions.
 
-6.2. Interactivity and User Experience
+9.2. Interactivity and User Experience
 
-6.2.1. Cluster Analysis:
+Cluster Analysis:
 
 User Interaction: Users can select electoral wards to update a scatter plot showing qualifications and occupations clusters.
 KMeans Clustering Algorithm: Identified three distinct clusters:
 Blue Cluster (Low Occupations and Low Qualifications): Areas with low qualifications and low employment, possibly rural or with an older population.
 Yellow Cluster (Medium Occupations and Medium Qualifications): Balanced areas, potentially suburban, with growth potential.
 Red Cluster (High Occupations or High Qualifications): Likely urban centers with high qualifications and employment, indicating economic vibrancy.
+
+![Screenshot 2023-08-11 113715](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/e4387427-863d-43c9-8262-1d6105b07dc1)
+
 ## Conclusions
-Discuss the implications of your findings and any potential next steps.
+Conclusion:
+
+9.1. Summary of the investigation study and findings: 
+
+We have uncovered a variety of insights through our analysis of the ONS Census 2021 data, especially that related to qualifications and occupations. Our initial goal was to identify the relationships between these datasets. Thankfully, the data only required minimum cleaning, which made it possible to combine these sets without any issues.
+
+Our first dive into the data unveiled intriguing correlations between qualification and occupation levels. However, certain outliers captured our attention. These outliers, which presented a higher qualification level yet lacked corresponding occupations, revealed that a significant 52% of them possessed Level 4 qualifications, while 27.24% engaged in professional occupations. Recognizing the data's value, we wisely chose to retain these outliers for further analysis.
+We found a clear disparity in qualification levels among the employed after digging further into the employment data. The fact that level 4 qualifications are held by more than half of the employed population indicates that there is a significant trend of highly educated labour. Levels 1 to 3 qualifications, on the other hand, make up a significant component that represents a range of skill sets, from basic to specialized professions.
+
+Our investigation revealed several key findings, one of which was the overwhelmingly strong preference for classroom-based education. A clear indication of the confidence and reliance people have on formal education is the fact that over 92% of respondents preferred traditional educational structures.
+
+A lot of people who did apprenticeships, which is like learning while working, end up in professional jobs. This shows that apprenticeships can be a good way to get into such roles. However, some people also end up in more basic jobs.
+
+Higher education has proven benefits and an influence on job trends. It's interesting to see that wards with a significant proportion of Level 4 qualified people and professionals have an employment rate of 0.62%.
+
+Despite the fact, that education frequently implies greater employment prospects, there is a clear disconnection, particularly for people with Level 4 qualifications. A sizable 32.08% of them find themselves in jobs that might not be appropriate for their level of academic achievement, raising the possibility of a demand-supply imbalance in the labour market.
+
+the age group of 24 to 34 years old plays an important role in shaping employment trends. This shows the energy and potential of this age group in the workforce.
+But our research went a step further than merely providing analytical insights. Using the Random Forest technique and the capabilities of machine learning, we created a predictive model to estimate the chance of a person would land a job in a user-specified ward. In addition to improving our understanding of employment trends across wards, our model offers job searchers useful information that will help them make decisions based on data-driven insights.
+
 
 
