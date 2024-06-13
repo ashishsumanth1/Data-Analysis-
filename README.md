@@ -9,9 +9,6 @@ This project analyzes the Census 2021 data to uncover insights from Education an
 3. [Methodology](#methodology)
 4. [Results](#results)
 5. [Conclusions](#conclusions)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [License](#license)
 
 ## Introduction
 Census data plays a crucial role in shaping a country's infrastructure and policies, providing a comprehensive picture of the population, including demographic, economic, and social information. The 2021 Census marks a significant milestone in the history of data collection, leveraging advanced technology for digital data collection and processing to enhance accuracy and coverage.
