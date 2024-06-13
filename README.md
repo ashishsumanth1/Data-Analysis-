@@ -43,13 +43,7 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 
 This methodology section presents our structured approach to ensure robust and meaningful insights into achieving the project's aims and objectives.
 
-#### Data Acquisition
-**Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
 
-#### Data Pre-processing
-**Preparing and refining the data** is paramount to ensure accuracy in subsequent analysis stages.
-
-- **Data Cleaning**: The qualification and occupation databases were both essentially in pristine condition, suggesting they had already been cleaned. To ensure our research's accuracy, a careful review was conducted to look for any inconsistencies. Unnecessary columns were removed, making the dataset more suitable for our analytical goals.
 
 #### Exploratory Data Analysis (EDA)
 **Data Visualization**: Graphs, plots, and charts were employed to get a preliminary understanding of the data distributions, trends, and patterns.
@@ -75,6 +69,17 @@ This methodology section presents our structured approach to ensure robust and m
 
 **Deployment**: Once developed, the application was deployed, making it accessible to users.
 
+
+## Data
+#### Data Acquisition
+**Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
+
+#### Data Pre-processing
+**Preparing and refining the data** is paramount to ensure accuracy in subsequent analysis stages.
+
+- **Data Cleaning**: The qualification and occupation databases were both essentially in pristine condition, suggesting they had already been cleaned. To ensure our research's accuracy, a careful review was conducted to look for any inconsistencies. Unnecessary columns were removed, making the dataset more suitable for our analytical goals.
+
+## Methodology
 ### Methodology for Calculating Employment Rate
 This is a key measure that gives us an idea of how many people in a particular area are working compared to those who are not. This data was obtained to use for our machine learning model preparation. The employment rate is the ratio of the number of employed individuals to the total workforce (i.e., the sum of employed and not employed individuals). The formula we employed to determine this is:
 
@@ -95,15 +100,6 @@ With these thresholds established, we proceeded to categorize each ward based on
 - Wards with employment rates exceeding the 66th percentile (upper threshold) were classified as 'High probability'. This suggests that a significant majority of their residents are employed.
 - Wards with employment rates falling between the 33rd percentile (lower threshold) and the 66th percentile were designated as 'Medium probability'. This indicates a moderate level of employment among its residents.
 - Wards that had employment rates below the 33rd percentile were labeled as 'Low probability'. These are areas that might require closer attention due to their lower employment figures.
-## Data
-Describe the dataset used in the project.
-- **Source:** Mention where you got the data.
-- **Description:** Explain the structure of the data, key columns, and any preprocessing steps.
-
-## Methodology
-Explain the methods and tools you used for the analysis.
-- **Tools:** Python, Pandas, Matplotlib, Seaborn, etc.
-- **Techniques:** Data cleaning, exploratory data analysis, visualization, etc.
 
 ## Results
 Summarize the key findings of your analysis.
