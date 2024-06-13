@@ -7,11 +7,12 @@ This project analyzes the Census 2021 data to uncover insights about the populat
 1. [Introduction](#introduction)
 2. [Data](#data)
 3. [Methodology](#methodology)
-4. [Results](#results)
-5. [Conclusions](#conclusions)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [License](#license)
+4. [Data Pre-processing Summary](#Data Pre-processing Summary)
+5. [Results](#results)
+6. [Conclusions](#conclusions)
+7. [Installation](#installation)
+8. [Usage](#usage)
+9. [License](#license)
 
 ## Introduction
 Census data has always been crucial in creating a country's infrastructure and policies. It gives a thorough picture of a nation's population, encompassing demographic, economic, and social information. Governments, academics, and businesses depend on the data to help them make well-informed choices that reflect public preferences and fashions. Census 2021 was distinct. To give more accuracy and coverage, it made use of cutting-edge technology, including digital data collection techniques and sophisticated data processing. This digital transformation ensured more accurate and accessible results.
