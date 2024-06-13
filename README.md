@@ -34,24 +34,6 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 - Identify potential mismatches or gaps between acquired qualifications and the jobs people eventually engage in.
 - Create a machine learning model designed to predict an individual's chances of securing a job based on their qualifications and the patterns observed in the electoral ward data.
 
-### Methodology
-
-
-#### Machine Learning Model Development
-**Feature Engineering**: Relevant features were extracted and sometimes transformed to ensure the machine learning model would perform optimally.
-
-**Model Selection**: Based on the nature of our data and the problem statement, an appropriate machine-learning algorithm was chosen.
-
-**Training and Validation**: The data was split into training and validation sets. The model was trained on the former and its performance evaluated on the latter.
-
-**Model Optimization**: Based on the performance metrics, the model parameters were tuned to optimize its predictive accuracy.
-
-#### Application Development
-**Flask App Creation**: An interactive Flask web application was developed. This user-friendly platform serves as an interface for individuals to interact with the data and access the machine learning model for predictions.
-
-**Deployment**: Once developed, the application was deployed, making it accessible to users.
-
-
 ## Data
 #### Data Acquisition
 **Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
@@ -86,11 +68,11 @@ This methodology section presents our structured approach to ensure robust and m
 **Cluster Analysis**: K-means clustering was employed, segmenting the data into clusters based on inherent similarities. This provided insights into how qualifications and job types naturally group together, revealing any mismatches.
 
 ### Methodology for Calculating Employment Rate
-This is a key measure that gives us an idea of how many people in a particular area are working compared to those who are not. This data was obtained to use for our machine learning model preparation. The employment rate is the ratio of the number of employed individuals to the total workforce (i.e., the sum of employed and not employed individuals). The formula we employed to determine this is:
+This is a key measure that gives us an idea of how many people in a particular area are working compared to those who are not. The employment rate is the ratio of the number of employed individuals to the total workforce (i.e., the sum of employed and not employed individuals). The formula we employed to determine this is:
 
-\[ \text{Employment Rate} = \frac{\text{Number of Employed}}{\text{Number of Employed} + \text{Number of Not Employed}} \]
+Employmentate=(Number of Employed)/(Number of Employed+Number of Not Employed)
 
-This method is widely used, including by respected organizations like the Office for National Statistics in 2019. This approach helps provide a clear picture of the employment situation in any given area.
+This method was widely used, including by respected organizations like the Office for National Statistics in 2019. This approach helps provide a clear picture of the employment situation in any given area.
 
 ### Employment-Based Ward Categorization
 The methodology adopted in this study for classifying each ward into distinct categories — 'High', 'Medium', and 'Low' — is based on the employment rate of each ward. This categorization is given to the machine learning algorithm as the target feature.
