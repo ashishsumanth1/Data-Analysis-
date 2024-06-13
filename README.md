@@ -151,6 +151,62 @@ Conclusion:
 
 The examination of "No Qualification Ratios" and employment rates highlights the importance of education in enhancing employment opportunities. By identifying and addressing areas with high ratios of individuals without qualifications, targeted interventions can be implemented to promote better employment outcomes, contributing to overall socio-economic development.
 
+## 3. Educational Qualifications of Employed Individuals: A Brief Overview
+In reviewing employment data from the electoral wards, we analyzed the qualifications of employed individuals. This analysis combined data from various occupational categories to provide a comprehensive view.
+
+![download (8)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/fd5d041e-6b5e-452a-9d51-bc06f0410e4a)
+
+Level 1 Qualifications: 16.85% of employed individuals have a Level 1 qualification. This group is likely suited for entry-level roles or positions that do not require advanced training.
+
+Level 2 Qualifications: 23.38% of the workforce holds Level 2 qualifications. These individuals are equipped for roles that require some degree of specialization or additional training.
+
+Level 3 Qualifications: 26.62% of employed individuals possess Level 3 qualifications. They potentially occupy mid-tier roles, which might be supervisory or require a deeper understanding of specific domains.
+
+Level 4 Qualifications: Over half (56.10%) of the employed population holds Level 4 qualifications. This indicates a highly educated workforce, suitable for advanced roles that demand significant expertise, managerial skills, or strategic input.
+
+For a visual representation of this distribution, please refer to Figure III, depicted as a bar chart.
+
+## 4. Percentage Distribution of Classroom vs. Apprenticeship-Based Qualifications
+
+Our analysis of the 2021 Census dataset focused on understanding the predominant modes of education and training. We compared traditional 'Classroom-based' qualifications with 'Apprenticeship-based' qualifications.
+
+![download (3)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/690e99c5-5eeb-47d8-97f5-6f6ad2bae918)
+
+Classroom-based Qualifications: The data revealed that 92.1% of respondents acquired their qualifications through traditional classroom settings. This highlights a strong reliance on formal educational institutions and structured academic curriculums for learning and skill acquisition.
+
+Apprenticeship-based Qualifications: Only 7.9% of the total qualifications were obtained through apprenticeships, which combine on-the-job training with some classroom instruction. This approach is often associated with practical learning in specific trades or professions.
+
+Understanding this distribution is crucial for shaping future educational strategies, curriculum designs, and employment programs. This distribution is visually represented in the pie chart in Figure IV.
+
+Our analysis indicates that regions with a higher concentration of individuals possessing Level 4 qualifications tend to have a greater proportion of professionals, underscoring the significant impact of education on occupational trends.
+
+## 5. Analysis of Dominant Occupations in Wards Based on Apprenticeship Qualifications
+Our analysis focused on electoral wards with a significant number of individuals possessing apprenticeship qualifications to determine dominant occupational patterns.
+
+![download (10)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/96352408-d09b-4a82-88cc-8843dd031459)
+
+
+Key Insights:
+
+Prevalence of Professional Occupations:
+
+Professional occupations are the most prevalent in 2,585 wards with a high proportion of apprentices.
+This suggests a successful transition from apprenticeship programs to professional roles, indicating alignment between apprenticeship training and professional sector demands.
+These wards might host industries requiring professional expertise or institutions attracting such professionals.
+
+Elementary Occupations:
+
+Elementary occupations dominate in 678 wards.
+This indicates diverse economic needs, with many regions relying on elementary job roles foundational to their local economies.
+There might be a skill-to-job mismatch, where apprenticeship skills don't fully align with available job opportunities, leading to elementary occupations.
+Skilled Trades & Caring Occupations:
+
+Skilled Trades: These wards may house industries needing specialized trade skills, like manufacturing, construction, or artisanal crafts.
+Service and Care: The prominence of care and service roles in certain wards indicates a demand driven by demographics, culture, or specific institutions like healthcare facilities.
+
+Conclusion:
+The occupational landscape in wards with high apprenticeship qualifications is diverse. While professional roles are prominent, elementary, skilled trade, and caring occupations are also significant. This diversity reflects the multifaceted nature of economic activities and varying apprenticeship program outcomes across regions. These insights can guide policymakers, educators, and industry leaders in tailoring apprenticeship programs to address local job market needs and understand the broader economic characteristics of these wards. For a visual representation of the occupational distribution, refer to the pie chart in Figure IV.
+
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
 
