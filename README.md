@@ -1,7 +1,7 @@
 # Data-Analysis-
 
 # Census 2021 Data Analysis
-# Casad
+
 ## Overview
 This project analyzes the Census 2021 data to uncover insights about the population distribution, growth trends, and demographic patterns.
 
