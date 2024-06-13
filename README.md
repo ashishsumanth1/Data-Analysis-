@@ -57,9 +57,19 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 **Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
 
 #### Data Pre-processing
-**Preparing and refining the data** is paramount to ensure accuracy in subsequent analysis stages.
+In this project, the data pre-processing phase was crucial to transform and prepare the datasets for subsequent analysis and model building. Below is a summary of the key steps undertaken during the data pre-processing:
+1. Data Importation:
 
-- **Data Cleaning**: The qualification and occupation databases were both essentially in pristine condition, suggesting they had already been cleaned. To ensure our research's accuracy, a careful review was conducted to look for any inconsistencies. Unnecessary columns were removed, making the dataset more suitable for our analytical goals.
+The datasets related to qualifications and occupations were imported from CSV files using Python's pandas library.
+
+2. Data Transformation:
+
+Pivoting Data Frames: The initial datasets were restructured into a pivot table format. This transformation allowed for more accessible representation and facilitated aggregating and comparing data across different categories and electoral wards.
+Renaming Columns: Certain columns in the qualification datasets were renamed to ensure clarity and consistency. This step was essential for removing ambiguities and ensuring that the column names were succinct and self-explanatory. Unnecessary columns were removed, making the dataset more suitable for our analytical goals.
+
+3. Data Integration:
+
+The transformed datasets for qualifications and occupations were merged into a single dataset. This integration was based on the "Electoral wards and divisions" as the common identifier. The result was a consolidated dataset that brought together the crucial data points from both qualifications and occupations, paving the way for in-depth analyses.
 
 ## Methodology
 
