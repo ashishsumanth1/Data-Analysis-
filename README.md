@@ -5,7 +5,7 @@ This project analyzes the Census 2021 data to uncover insights about the populat
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Pre-processing](#DataPre-processing)
+2. [Data](#Data)
 3. [Methodology](#methodology)
 5. [Results](#results)
 6. [Conclusions](#conclusions)
