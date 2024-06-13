@@ -89,7 +89,7 @@ With these thresholds established, we proceeded to categorize each ward based on
 
 ## Results
 
-1. Analysis of Correlation between Qualifications and Occupations
+##1. Analysis of Correlation between Qualifications and Occupations
 To investigate the relationship between qualifications and occupations within each electoral ward, a scatter plot was created showing the total number of qualifications against the total number of occupations.
 
 ![download (9)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/419ce348-3dfc-461e-a7d3-a34b42098820)
@@ -115,9 +115,11 @@ Conclusion:
 The scatter plot guided focused inquiries into specific regions, helping to identify patterns and correlations between qualifications and occupations. By setting thresholds and segmenting the data, significant insights into the qualifications and occupations prevalent in high-performing wards were obtained. This analysis underscores the importance of matching educational achievements with appropriate job opportunities to address regional disparities 
 effectively.
 
-2. Impact of No Qualification on Employment Rates
+##2. Impact of No Qualification on Employment Rates
 
 To assess the impact of individuals without qualifications on employment rates, we performed a detailed analysis starting with the calculation of the "Total Population" for each ward by summing across all qualification categories. This approach provided a comprehensive view of the population spread across various qualification levels.
+
+![download (15)](https://github.com/ashishsumanth1/Data-Analysis-/assets/115171950/ee92cc0c-da10-44f4-ace1-8faa5cc99aad)
 
 Methodology:
 
