@@ -5,7 +5,7 @@ This project analyzes the Census 2021 data to uncover insights about the populat
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Data Pre-processing Summary](#DataPre-processingSummary)
+2. [Data Pre-processing](#DataPre-processing)
 3. [Methodology](#methodology)
 5. [Results](#results)
 6. [Conclusions](#conclusions)
@@ -52,7 +52,7 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 **Deployment**: Once developed, the application was deployed, making it accessible to users.
 
 
-## Data
+## Data Pre-processing
 #### Data Acquisition
 **Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
 
