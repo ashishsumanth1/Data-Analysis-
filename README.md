@@ -26,7 +26,7 @@ A noteworthy feature of Census 2021 is its dedication to openness and data democ
 
 This wealth of data is now available to academics, decision-makers, corporations, and even curious individuals. The data is provided in an approachable manner that makes it simple to download and integrate into various analytical tools for specialized insights. The government has enforced transparency and promoted a culture of investigation, analysis, and data-driven decision-making by making Census 2021 data easily accessible.
 
-### 1.2 Project Aims and Objectives
+### Project Aims and Objectives
 
 #### Aim
 Our primary aim in undertaking this project is to delve deep into the qualifications and occupations datasets from Census 2021 provided by the ONS. By analyzing the inherent correlations and trends between these two sets, we endeavor to:
@@ -39,16 +39,9 @@ Our primary aim in undertaking this project is to delve deep into the qualificat
 - Identify potential mismatches or gaps between acquired qualifications and the jobs people eventually engage in.
 - Create a machine learning model designed to predict an individual's chances of securing a job based on their qualifications and the patterns observed in the electoral ward data.
 
-#### Project Objective
-**Purpose**: To explore and understand the interplay between qualifications and occupations using Census 2021 datasets, with a particular focus on identifying patterns, correlations, and anomalies.
+### Methodology
 
-**Academic Endeavor**: As part of our master's degree curriculum, this project serves as a pivotal exercise in applying research methodologies, data analysis techniques, and theoretical knowledge to real-world datasets. It's an invaluable opportunity for hands-on experience in data science and analytics.
-
-**Timeliness and Relevance**: The fact that the ONS website has indicated its intention to analyze these datasets by year-end adds to the topical relevance of our research. Our academic exercise can be juxtaposed against a broader analytical context when the ONS releases its findings.
-
-### 1.3 Methodology
-
-This methodology section presents our structured approach to ensure robust and meaningful insights in achieving the project's aims and objectives. By defining each step, we strive to make our research methodology reliable and transparent.
+This methodology section presents our structured approach to ensure robust and meaningful insights into achieving the project's aims and objectives.
 
 #### Data Acquisition
 **Source Identification**: The foremost step involved pinpointing a reliable data source. The datasets have to be broad and relevant to the study. The Office for National Statistics (ONS) website, specifically the URL "[https://www.ons.gov.uk/](https://www.ons.gov.uk/)", was identified as a prime source due to its comprehensive nature and extensive coverage of the Census 2021 data.
