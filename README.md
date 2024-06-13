@@ -112,7 +112,42 @@ Mid-Value Wards: Inwards with 6,000 to 10,000 occupations and qualifications abo
 
 Conclusion:
 
-The scatter plot guided focused inquiries into specific regions, helping to identify patterns and correlations between qualifications and occupations. By setting thresholds and segmenting the data, significant insights into the qualifications and occupations prevalent in high-performing wards were obtained. This analysis underscores the importance of matching educational achievements with appropriate job opportunities to address regional disparities effectively.
+The scatter plot guided focused inquiries into specific regions, helping to identify patterns and correlations between qualifications and occupations. By setting thresholds and segmenting the data, significant insights into the qualifications and occupations prevalent in high-performing wards were obtained. This analysis underscores the importance of matching educational achievements with appropriate job opportunities to address regional disparities 
+effectively.
+
+2. Impact of No Qualification on Employment Rates
+
+To assess the impact of individuals without qualifications on employment rates, we performed a detailed analysis starting with the calculation of the "Total Population" for each ward by summing across all qualification categories. This approach provided a comprehensive view of the population spread across various qualification levels.
+
+Methodology:
+
+Calculating the "No Qualification Ratio":
+
+Derived by dividing the number of individuals without qualifications by the total population of each ward. This ratio offers a normalized measure, enabling precise comparisons among wards with varying population sizes.
+Categorizing Wards:
+
+Wards were categorized based on their "No Qualification Ratios".
+For targeted examination, subsets like the top and bottom 1000 wards were chosen to explore the data further.
+Findings:
+
+Correlation Observation:
+
+The analysis revealed that wards with lower "No Qualification Ratios" tend to have more favorable employment rates.
+This suggests a positive correlation between higher educational attainment and better employment opportunities.
+Insights:
+
+Positive Correlation:
+
+Wards with a lower "No Qualification Ratio" tend to have better employment rates, underscoring the link between education and employment opportunities.
+Consideration of Socio-Economic Factors:
+
+While there's a visible trend, other socio-economic factors should be considered before drawing definitive conclusions. Further analysis with varied datasets is warranted.
+Potential Interventions:
+
+Areas with high "No Qualification Ratios" might benefit from targeted interventions, such as educational outreach programs or vocational training to improve employment rates.
+Conclusion:
+
+The examination of "No Qualification Ratios" and employment rates highlights the importance of education in enhancing employment opportunities. By identifying and addressing areas with high ratios of individuals without qualifications, targeted interventions can be implemented to promote better employment outcomes, contributing to overall socio-economic development.
 
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
