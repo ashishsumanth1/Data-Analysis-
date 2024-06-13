@@ -7,11 +7,11 @@ This project analyzes the Census 2021 data to uncover insights from Education an
 1. [Introduction](#introduction)
 2. [Data](#Data)
 3. [Methodology](#methodology)
-5. [Results](#results)
-6. [Conclusions](#conclusions)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [License](#license)
+4. [Results](#results)
+5. [Conclusions](#conclusions)
+6. [Installation](#installation)
+7. [Usage](#usage)
+8. [License](#license)
 
 ## Introduction
 Census data plays a crucial role in shaping a country's infrastructure and policies, providing a comprehensive picture of the population, including demographic, economic, and social information. The 2021 Census marks a significant milestone in the history of data collection, leveraging advanced technology for digital data collection and processing to enhance accuracy and coverage.
@@ -88,9 +88,32 @@ With these thresholds established, we proceeded to categorize each ward based on
 - Wards that had employment rates below the 33rd percentile were labeled as 'Low probability'. These are areas that might require closer attention due to their lower employment figures.
 
 ## Results
-Summarize the key findings of your analysis.
-- Include images of key visualizations.
-- Highlight important insights.
+1. Analysis of Correlation between Qualifications and Occupations
+To investigate the relationship between qualifications and occupations within each electoral ward, a scatter plot was created showing the total number of qualifications against the total number of occupations.
+
+Key Insights:
+
+Correlation Observation: The scatter plot indicated a noticeable trend, suggesting that areas with higher numbers of qualifications tend to have higher numbers of occupations, highlighting a potential correlation between the two datasets.
+
+Visual Elements: The x-axis represents 'Total Qualifications' and the y-axis represents 'Total Occupations'. The plot includes a grid for better legibility, with each data point depicting an electoral ward's count of qualifications and occupations.
+
+Implications of the Correlation: This positive correlation might reflect various socio-economic factors, such as regions with better educational facilities attracting more businesses and industries, thereby increasing job opportunities.
+
+Outliers Analysis: Some wards, despite having many qualified individuals, showed lower employment rates. This could be due to high population density or a shortage of jobs relative to the number of qualified people.
+
+Closer Examination:
+
+Clusters: Distinct clusters of wards were noticeable, suggesting a concentration where both qualifications and occupations were high. This observation led to a hypothesis about common qualifications and occupations in these high-performing wards.
+
+Segmentation Based on Thresholds: By setting thresholds (e.g., more than 10,000 total occupations and qualifications), the data was segmented to isolate top-performing wards for a detailed analysis.
+
+High-Value Wards: In wards with over 10,000 total occupations and qualifications, Level 4 qualifications and 'Professional occupations' were most common.
+
+Mid-Value Wards: In wards with 6,000 to 10,000 occupations and qualifications above 5,000, Level 4 qualifications and 'Professional occupations' were also prevalent but in lower numbers.
+
+Conclusion:
+
+The scatter plot guided focused inquiries into specific regions, helping to identify patterns and correlations between qualifications and occupations. By setting thresholds and segmenting the data, significant insights into the qualifications and occupations prevalent in high-performing wards were obtained. This analysis underscores the importance of matching educational achievements with appropriate job opportunities to address regional disparities effectively.
 
 ## Conclusions
 Discuss the implications of your findings and any potential next steps.
